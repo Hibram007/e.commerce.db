@@ -10,8 +10,8 @@ Created using:
 - Sequelize 
 - dotenv
 
-## ScreenShot:
-
+## ScreenShot/video:
+[Demo video](#https://watch.screencastify.com/v/3dC30kf7QvKKFi4E1qhu)
 
 ## References
 - U of A bootcamp module 13  
